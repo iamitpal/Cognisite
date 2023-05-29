@@ -11,7 +11,7 @@ Amit Sarah Pal
 
 ### Deployed Links:
 
-- https://cognisite-mu.vercel.app/
+- https://cognisite-iamitpal.vercel.app/
 
 ## Details:
 
